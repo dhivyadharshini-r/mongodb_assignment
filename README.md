@@ -19,7 +19,7 @@ Before progressing, make sure you have the following installed:
 
 2. Clone the project repository from GitHub:
    ```
-   git clone https://github.com/DINESHVC33/Schedule-REACT-APP.git
+   git clone https://github.com/Dhivya/Schedule-REACT-APP.git
    ```
 
 3. Open the project folder in Visual Studio Code:
